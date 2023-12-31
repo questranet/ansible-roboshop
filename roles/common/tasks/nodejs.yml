@@ -21,4 +21,4 @@
 
 - name: Load Schema
   ansible.builtin.import_tasks:
-    file: schema.yml
+    file: mongo-schema.yml
